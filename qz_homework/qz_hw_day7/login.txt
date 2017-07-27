@@ -1,0 +1,8 @@
+bb|0|bb|0
+qq|0|qq|0
+aa|0|aa|1
+cc|0|cc|0
+dd|0|dd|0
+zz|3|zzz|1
+ee|3|ee|1
+xx|3|xx|1

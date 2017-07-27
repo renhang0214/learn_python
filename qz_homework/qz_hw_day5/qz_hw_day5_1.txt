@@ -1,0 +1,21 @@
+# /usr/local/bin/python
+# -*- coding: utf-8 -*-
+# Author:Ren Hang
+
+# 练习:相同的key更新，old_dict有new_dict没有的key删除，old_dict没有new_dict有的key更新到old_dict
+# 数据库中原有
+old_dict = {
+    "#1": 11,
+    "#2": 22,
+    "#3": 100
+}
+
+# cmdb 新汇报的数据
+new_dict = {
+    "#1": 33,
+    "#3": 22,
+    "#4": 100
+}
+
+对比两个字典的key，分别找出需要更新、删除和增加的key
+用得到的key对字典进行更新、删除、增加
